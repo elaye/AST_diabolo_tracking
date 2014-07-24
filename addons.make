@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxOsc
+ofxParticleSystem
+ofxFX
+ofxPostProcessing
+ofxOpenNI
+ofxXmlSettings
