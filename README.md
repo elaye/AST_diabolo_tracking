@@ -11,10 +11,15 @@ It also depends on the following openFrameworks addons:
 - ofxOpenCv
 - ofxOsc
 
-    cd your_OpenFrameworks_directory/apps/myApps  
-    git clone https://github.com/elaye/diabolo_tracking 
+
+    cd your_OpenFrameworks_directory/apps/myApps
+
+    git clone https://github.com/elaye/AST_diabolo_tracking.git
+
     cd diabolo_tracking
+
     make
+
     make run
 
 Usage
